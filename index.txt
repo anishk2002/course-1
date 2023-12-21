@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course-Test</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="logo.jpg">
+</head>
+<body>
+    <header><h1>Our Menu</h1></header><br><br>
+    <div class="scroll">
+    <section>
+        <div class="sec1"><br><br>
+            <p class="title1"><b>HTML</b></p>
+            <p class="content1">Hypertext Markup Language (HTML) is the text markup language currently
+                used on the World Wide Web. If you have ever written a school report or
+                business memo, you have encountered text markup. Your documents probably
+                came back to you covered in red ink, courtesy of your teacher or boss. The symbols and
+                acronyms used in those editorial markups suggested changes for you to interpret or
+                implement . In that scenario, markup is separate from the actual content
+                of your document.</p>
+
+        </div>
+    </section>
+    <section>
+        <div class="sec2"><br><br>
+            <p class="title2"><b>CSS</b></p>
+            <p class="content2">Hypertext Markup Language (HTML) is the text markup language currently
+                used on the World Wide Web. If you have ever written a school report or
+                business memo, you have encountered text markup. Your documents probably
+                came back to you covered in red ink, courtesy of your teacher or boss. The symbols and
+                acronyms used in those editorial markups suggested changes for you to interpret or
+                implement . In that scenario, markup is separate from the actual content
+                of your document.</p>
+
+        </div>
+    </section>
+    <section>
+        <div class="sec3"><br><br>
+            <p class="title3"><b>Javascript</b></p>
+            <p class="content3">Hypertext Markup Language (HTML) is the text markup language currently
+                used on the World Wide Web. If you have ever written a school report or
+                business memo, you have encountered text markup. Your documents probably
+                came back to you covered in red ink, courtesy of your teacher or boss. The symbols and
+                acronyms used in those editorial markups suggested changes for you to interpret or
+                implement . In that scenario, markup is separate from the actual content
+                of your document.</p>
+
+        </div>
+    </section>
+</div>
+</body>
+</html>
